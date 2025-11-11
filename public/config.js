@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Leaderboard,Vaults,Portfolio,Markets,Rewards",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_CUSTOM_MENUS": "swapdex, http://www.chainsteam.io",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",
